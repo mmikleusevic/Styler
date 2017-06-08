@@ -1,0 +1,2 @@
+Ovaj rad je napravljen paralelno sa radom iz web programiranja, pa nisam imao bas puno vremena za rad i na jednom i na drugom
+dizajn nije responsive tako da molim vas koristite 1920x1080 rezoluciju. Hvala!
